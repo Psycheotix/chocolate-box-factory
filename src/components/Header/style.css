@@ -1,0 +1,13 @@
+.header-container{
+    display:flex;
+justify-content: center;
+padding-top:20px;
+background: repeating-linear-gradient( 
+            90deg,
+            #F49F9F,
+            #F49F9F 20px,
+            #F2C0C0 20px,
+            #F2C0C0 40px);
+            height: 200px;
+}
+

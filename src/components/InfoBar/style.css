@@ -1,0 +1,30 @@
+.infoBar{
+display:flex;
+justify-content: flex-end;
+height: 160px;
+}
+
+.receipt-play {
+    padding-top: 50px;
+    background: #ECEFF1;
+    height: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    padding: 20px;
+    justify-content: space-around;
+    align-content: flex-start;
+    overflow: auto;
+  }
+
+  .receipt-score {
+    padding-top: 50px;
+    background: #cccccc;
+    height: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    padding: 20px;
+    justify-content: space-around;
+    align-content: flex-start;
+    overflow: auto;
+  }
+  
