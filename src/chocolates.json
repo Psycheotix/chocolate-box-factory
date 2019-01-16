@@ -1,63 +1,63 @@
 [
     {
       "id": 1,
-      "name": "SpongeBob",
+      "name": "Chocolate-01",
       "image": "/images/chocolate-01.png",
       "occupation": "Fry Cook",
       "location": "A Pineapple Under the Sea"
     },
     {
       "id": 2,
-      "name": "Mr. Krabs",
+      "name": "Chocolate-02",
       "image": "/images/chocolate-02.png",
       "occupation": "Restaurant Owner",
       "location": "A Giant Anchor"
     },
     {
       "id": 3,
-      "name": "Squidward",
+      "name": "Chocolate-03",
       "image": "/images/chocolate-03.png",
       "occupation": "Cashier",
       "location": "An Easter Island Head"
-    },
+    },   
     {
       "id": 4,
-      "name": "Dexter",
+      "name": "Chocolate-04",
       "image": "/images/chocolate-04.png",
       "occupation": "Boy Genius",
       "location": "A Secret Laboratory"
     },
     {
       "id": 5,
-      "name": "Courage",
+      "name": "Chocolate-05",
       "image": "/images/chocolate-05.png",
       "occupation": "A Cowardly Dog",
       "location": "Nowhere, Kansas"
     },
     {
       "id": 6,
-      "name": "Doug Funnie",
+      "name": "Chocolate-06",
       "image": "/images/chocolate-06.png",
       "occupation": "Student",
       "location": "Bluffington"
     },
     {
       "id": 7,
-      "name": "Bugs Bunny",
+      "name": "Chocolate-07",
       "image": "/images/chocolate-07.png",
       "occupation": "Looney Toon",
       "location": "A Rabbit Burrow"
     },
     {
       "id": 8,
-      "name": "Johnny Bravo",
+      "name": "Chocolate-08",
       "image": "/images/chocolate-08.png",
       "occupation": "Ladies Man",
       "location": "Aron City"
     },
     {
       "id": 9,
-      "name": "Tommy Pickles",
+      "name": "Chocolate-09",
       "image": "/images/chocolate-09.png",
       "occupation": "Adventurer",
       "location": "California"

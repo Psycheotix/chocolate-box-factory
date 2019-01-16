@@ -15,8 +15,8 @@ class App extends Component {
     score: 0
   };
 
-  removeChocolates = id => {
-    // Filter this.state.chocolates for chocolates with an id not equal to the id being removed
+  clickedChocolates = id => {
+    // Filter this.state.chocolates for chocolates clicked
     
     if(!this.state.clicked.includes(id)){
       const newArr = this.shuffle(this.state.chocolates);
@@ -51,7 +51,7 @@ class App extends Component {
       <Wrapper>
         {this.state.chocolates.map(chocolate => (
           <Chocolates
-            removeChocolates={this.removeChocolates}
+            clickedChocolates={this.clickedChocolates}
             id={chocolate.id}
             key={chocolate.id}
             image={chocolate.image}
